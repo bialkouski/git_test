@@ -14,3 +14,5 @@ This is a branch
 
 ANd This line added in Branch "feature too"!!!!_________________________
 
+
+These symbols and text are for checkong The Stash Command!!!
